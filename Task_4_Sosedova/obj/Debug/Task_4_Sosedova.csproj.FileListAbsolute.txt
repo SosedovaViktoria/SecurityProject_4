@@ -1,0 +1,7 @@
+C:\Users\Виктория\source\repos\Task_4_Sosedova\Task_4_Sosedova\bin\Debug\Task_4_Sosedova.exe.config
+C:\Users\Виктория\source\repos\Task_4_Sosedova\Task_4_Sosedova\bin\Debug\Task_4_Sosedova.exe
+C:\Users\Виктория\source\repos\Task_4_Sosedova\Task_4_Sosedova\bin\Debug\Task_4_Sosedova.pdb
+C:\Users\Виктория\source\repos\Task_4_Sosedova\Task_4_Sosedova\obj\Debug\Task_4_Sosedova.csprojAssemblyReference.cache
+C:\Users\Виктория\source\repos\Task_4_Sosedova\Task_4_Sosedova\obj\Debug\Task_4_Sosedova.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\source\repos\Task_4_Sosedova\Task_4_Sosedova\obj\Debug\Task_4_Sosedova.exe
+C:\Users\Виктория\source\repos\Task_4_Sosedova\Task_4_Sosedova\obj\Debug\Task_4_Sosedova.pdb
